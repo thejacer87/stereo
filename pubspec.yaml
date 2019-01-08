@@ -13,7 +13,6 @@ flutter:
   plugin:
     androidPackage: com.twofind.stereo
     pluginClass: StereoPlugin
-    iosPrefix: ST
 
 dependencies:
   flutter:
